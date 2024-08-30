@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    </style>
+</head>
+ <style>
+    body {
+        background-image: url("https://cdn-media.sforum.vn/storage/app/media/ctv_seo10/background-2-9-1.jpg");
+      }
+    </style>
+<body>
+    <header>
+    </header>
+    <header>
+        <h1>
+		<font face="Arial" style="font-size: 16pt; text-decoration: underline; font-style: italic" color="#800080">Chào m&#7915;ng &#273;&#7871;n v&#7899;i trang web gi&#7899;i thi&#7879;u gia &#273;ình tôi!</font></h1>
+    </header>
+    <div class="container">
+        <div class="gallery">
+            <h2><font face="Times New Roman" size="4">Gia &#272;ình tôi bao g&#7891;m:
+			</font> </h2>
+            
+
+    
+        </div>
+    </div>
+	<p><b><i><font size="5"><a href="index2.htm"><font color="#FF0000">Bo toi</font></a></font></i></b></p>
+	<p><b><i><font size="5"><a href="index3.htm"><font color="#FF0000">Me toi 
+	</font> </a> </font></i></b></p>
+	<p><b><i><font size="5"><a href="index4.htm"><font color="#FF0000">Toi</font></a></font></i></b></p>
+	</body>
+</html>
